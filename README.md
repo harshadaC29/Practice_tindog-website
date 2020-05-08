@@ -1,2 +1,1 @@
-# Practice_tindog-website
-Just for practicing purpose
+TinDog Starting Files
