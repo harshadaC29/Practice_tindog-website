@@ -1,1 +1,3 @@
-TinDog Starting Files
+TinDog ReadMe Practice
+
+This was only for my practice
